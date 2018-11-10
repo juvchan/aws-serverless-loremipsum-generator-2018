@@ -2,21 +2,31 @@
 
 This is a sample **Serverless Random Lorem Ipsum Generator** Node.js app built using [Serverless Framework](https://serverless.com/framework/) and [AWS Lambda](https://aws.amazon.com/lambda/) for the [#NoServerNovember](https://serverless.com/blog/no-server-november-challenge) daily challenge (*Nov 5*) in 2018.
 
-This serverless app will generate unique *6* paragraphs of **Lorem Ipsum** plain text randomly for each time being invoked.
+This serverless app will generate **6** paragraphs of **random Lorem Ipsum** plain text for each time being invoked.
 
 ## Screenshots
 
 1. AWS Lambda Function
-![alt text](images/AWS_Lambda_ServerlessIpsum_Function.png "AWS Lambda Function")
+
+
+![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/AWS_Lambda_ServerlessIpsum_Function.png "AWS Lambda Function")
 
 
 2. AWS API Gateway Endpoint
-![alt text](images/AWS_APIGatewayEndpoint.png "AWS API Gateway Endpoint")
+
+
+![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/AWS_APIGatewayEndpoint.png "AWS API Gateway Endpoint")
+
+
 Link: https://ai9h6xsghg.execute-api.ap-southeast-1.amazonaws.com/dev/
+
+
 **Note**: The serverless app might be decommissioned at the time being invoked due to cost-saving consideration.
 
 
 3. Random Lorem Ipsum Generator Output
-    * ![alt text](images/RandomLoremIpsumScreenshot_1 "Sample Output 1")
-    * ![alt text](images/RandomLoremIpsumScreenshot_2 "Sample Output 2")
-    * ![alt text](images/RandomLoremIpsumScreenshot_3 "Sample Output 3")
+
+
+    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_1 "Sample Output 1")
+    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_2 "Sample Output 2")
+    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_3 "Sample Output 3")
