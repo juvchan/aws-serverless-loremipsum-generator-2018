@@ -9,13 +9,13 @@ This serverless app will generate **6** paragraphs of **random Lorem Ipsum** pla
 1. AWS Lambda Function
 
 
-![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/AWS_Lambda_ServerlessIpsum_Function.png "AWS Lambda Function")
+    ![alt text](https://github.com/juvchan/aws-serverless-loremipsum-generator-2018/raw/master/images/AWS_Lambda_ServerlessIpsum_Function.png "AWS Lambda Function")
 
 
 2. AWS API Gateway Endpoint
 
 
-![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/AWS_APIGatewayEndpoint.png "AWS API Gateway Endpoint")
+    ![alt text](https://github.com/juvchan/aws-serverless-loremipsum-generator-2018/raw/master/images/AWS_APIGatewayEndpoint.png "AWS API Gateway Endpoint")
 
 
 Link: https://ai9h6xsghg.execute-api.ap-southeast-1.amazonaws.com/dev/
@@ -27,6 +27,6 @@ Link: https://ai9h6xsghg.execute-api.ap-southeast-1.amazonaws.com/dev/
 3. Random Lorem Ipsum Generator Output
 
 
-    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_1 "Sample Output 1")
-    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_2 "Sample Output 2")
-    * ![alt text](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/images/RandomLoremIpsumScreenshot_3 "Sample Output 3")
+    * ![alt text](https://github.com/juvchan/aws-serverless-loremipsum-generator-2018/raw/master/images/RandomLoremIpsumScreenshot_1 "Sample Output 1")
+    * ![alt text](https://github.com/juvchan/aws-serverless-loremipsum-generator-2018/raw/master/images/RandomLoremIpsumScreenshot_2 "Sample Output 2")
+    * ![alt text](https://github.com/juvchan/aws-serverless-loremipsum-generator-2018/raw/master/images/RandomLoremIpsumScreenshot_3 "Sample Output 3")
