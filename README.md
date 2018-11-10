@@ -6,12 +6,12 @@ This serverless app will generate **6** paragraphs of **random Lorem Ipsum** pla
 
 ## Screenshots
 
-1. AWS Lambda Function
+1. **AWS Lambda Function**
 
     ![AWS Lambda Function](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/AWS_Lambda_ServerlessIpsum_Function.PNG)
 
 
-2. AWS API Gateway Endpoint
+2. **AWS API Gateway Endpoint**
 
     ![API Gateway Endpoint](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/AWS_APIGatewayEndpoint.PNG)
 
@@ -19,10 +19,10 @@ This serverless app will generate **6** paragraphs of **random Lorem Ipsum** pla
 Link: https://ai9h6xsghg.execute-api.ap-southeast-1.amazonaws.com/dev/
 
 
-**Note**: The serverless app might be decommissioned at the time being invoked due to cost-saving consideration.
+**Note: The serverless app might be decommissioned at the time being invoked due to cost-saving consideration.**
 
 
-3. Random Lorem Ipsum Generator Output
+3. **Random Lorem Ipsum Generator Output**
 
     ![Sample Output 1](https://raw.githubusercontent.com/juvchan/aws-serverless-loremipsum-generator-2018/master/images/RandomLoremIpsumScreenshot_1.PNG)
 
