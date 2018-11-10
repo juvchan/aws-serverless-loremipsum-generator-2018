@@ -1,0 +1,16 @@
+service: serverless-ipsum-generator
+
+frameworkVersion: ">=1.9.0 <2.0.0"
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  region: ap-southeast-1
+
+functions:
+  ipsum:
+    handler: handler.ipsum
+    events:
+      - http:
+          method: get
+          path: /

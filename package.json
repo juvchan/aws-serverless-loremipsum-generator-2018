@@ -1,0 +1,40 @@
+{
+  "name": "serverless-random-loremipsum-generator",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "Juv Chan",
+  "description": "A sample Serverless random Lorem Ipsum Generator Node.js app built using Serverless Framework and AWS Lambda for the #noServerNovember challenge in 2018.",
+  "requires": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juvchan/aws-serverless-loremipsum-generator-2018.git"
+  },
+  "keywords": [
+    "serverless",
+    "serverless framework",
+    "nodejs",
+    "noservernovember",
+    "lorem ipsum",
+    "aws",
+    "aws lambda"
+  ],
+  "dependencies": {
+    "lorem-ipsum": {
+      "version": "1.0.6",
+      "resolved": "https://registry.npmjs.org/lorem-ipsum/-/lorem-ipsum-1.0.6.tgz",
+      "integrity": "sha512-Rx4XH8X4KSDCKAVvWGYlhAfNqdUP5ZdT4rRyf0jjrvWgtViZimDIlopWNfn/y3lGM5K4uuiAoY28TaD+7YKFrQ==",
+      "requires": {
+        "minimist": "~1.2.0"
+      }
+    },
+    "minimist": {
+      "version": "1.2.0",
+      "resolved": "http://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz",
+      "integrity": "sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ="
+    }
+  }
+}
